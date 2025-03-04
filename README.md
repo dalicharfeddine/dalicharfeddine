@@ -10,11 +10,11 @@ I'm a **TEACHER AT ESPRIT** and **software engineer** passionate about **AI**, *
 
 ## 📊 GitHub Stats & Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mohamedalicharfeddine&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=dalicharfeddine&theme=radical&hide_border=true)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamedalicharfeddine&theme=github-dark&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dalicharfeddine&theme=github-dark&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedalicharfeddine&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dalicharfeddine&show_icons=true&theme=tokyonight)
 
 ## 🔧 Technologies & Tools
 
@@ -26,8 +26,8 @@ I'm a **TEACHER AT ESPRIT** and **software engineer** passionate about **AI**, *
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=Docker&logoColor=white)
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mohamedalicharfeddine/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mohamedalicharfeddine)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/med-ali-charfeddine-a6a3a21b3/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/dalicharfeddine)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohamedalicharfeddine&color=blueviolet)
 
